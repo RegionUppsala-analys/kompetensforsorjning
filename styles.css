@@ -1,0 +1,540 @@
+/* =========================================================
+   TEMA FÖR RAPPORTEN (layout, färger, typografi)
+   ========================================================= */
+
+/* ==== Tema-variabler (behåll gärna) ==== */
+:root{
+  --accent:#B81867;
+  --accent-2:#a61c6e;
+  --text:#1f1f1f;
+  --muted:#666;
+  --bg:#ffffff;
+  --bg-soft:#f3dce8;
+  --border:#e6e6e6;
+
+  /* övergripande maxbredd kan vara kvar om du vill, men styr nu mest bakgrunden */
+  --maxw:1200px;
+
+  /* DEN HÄR styr bredden på själva vita "kortet" = samma på alla .qmd */
+  --contentw:1100px;
+}
+
+/* Bas */
+*{ box-sizing:border-box; }
+html,body{ margin:0; padding:0; }
+body{
+  font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;
+  color:var(--text);
+  background:#f2f2f6;
+  line-height:1.6;
+}
+
+/* ==== HEADER / NAVBAR (Quarto) ==== */
+#quarto-header .navbar{
+  background:#B81867 !important;
+}
+#quarto-header .navbar .navbar-brand,
+#quarto-header .navbar .nav-link{
+  color:#fff !important;
+  font-weight:700;
+}
+#quarto-header .navbar .nav-link.active,
+#quarto-header .navbar .nav-link:hover,
+#quarto-header .navbar .nav-link:focus{
+  color:#fff !important;
+  text-decoration:underline;
+}
+#quarto-header .navbar-toggler{
+  border-color:rgba(255,255,255,.6);
+}
+#quarto-header .navbar-toggler-icon{
+  filter:invert(1) grayscale(1);
+}
+
+/* Låt själva Quarto-grid fylla bredden (ingen smal container) */
+.quarto-container{
+  max-width: 100%;
+}
+
+/* (valfritt: om du vill ha en svag maxbredd på hela sidan)
+.page-columns{
+  max-width: var(--maxw);
+  margin-left:auto;
+  margin-right:auto;
+}
+*/
+
+/* ==== SIDEBAR ==== */
+#quarto-sidebar{
+  background:var(--bg-soft);
+  border-right:2px solid var(--border);
+}
+#quarto-sidebar .sidebar-menu-container{
+  padding:1rem;
+}
+#quarto-sidebar a{
+  color:#5a3ab6;
+  text-decoration:underline;
+  text-underline-offset:2px;
+}
+#quarto-sidebar a:hover{ text-decoration:none; }
+
+/* ==== TOC i marginal ==== */
+#quarto-margin-sidebar .active > a,
+#quarto-margin-sidebar a.active{
+  font-weight:700; color:var(--accent);
+}
+
+/* ==== INNEHÅLL / body === */
+.page-columns .content{
+  background:#fff;
+  border-radius:12px;
+  box-shadow:0 10px 30px rgba(0,0,0,.08);
+  padding:28px 36px;
+
+  /* Samma bredd på alla .qmd – bara ändra var(--contentw) i :root */
+  max-width: var(--contentw);
+  margin-left:auto;
+  margin-right:auto;
+}
+
+/* Typografi */
+.page-columns .content h1.title{
+  color:var(--accent);
+  font-weight:900;
+}
+h2{
+  color:var(--accent);
+  font-size:1.6rem;
+  margin:2rem 0 .5rem 0;
+  font-weight:800;
+}
+h3{
+  color:#7a2d57;
+  margin:1.2rem 0 .3rem 0;
+  font-weight:700;
+}
+h2 + p,
+h3 + p{
+  margin-top:.4rem;
+}
+p{ margin:1rem 0; }
+a{ color:#2a55cc; }
+a:hover{ text-decoration:none; }
+hr{
+  border:0;
+  border-top:1px solid var(--border);
+  margin:1.5rem 0;
+}
+ul,ol{ padding-left:1.25rem; }
+li{ margin:.35rem 0; }
+img{ max-width:100%; height:auto; }
+pre,code{
+  font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;
+}
+pre{
+  background:#f7f7f7;
+  border:1px solid #ececec;
+  border-radius:8px;
+  padding:.85rem;
+  overflow:auto;
+}
+
+/* ==== Minska gapet efter titel ==== */
+.quarto-title-block{ margin-bottom:.5rem !important; }
+.content > :first-child{ margin-top:0 !important; }
+
+/* ==== Panel-tabset ==== */
+.panel-tabset > .nav-tabs{
+  border-bottom:1px solid #dee2e6;
+  margin-bottom:1rem;
+  gap:.5rem;
+}
+.panel-tabset > .nav-tabs .nav-link{
+  padding:.5rem .75rem;
+  border:1px solid transparent;
+  border-radius:.375rem .375rem 0 0;
+}
+.panel-tabset > .nav-tabs .nav-link.active{
+  border-color:#dee2e6 #dee2e6 #fff;
+  background:#fff;
+}
+
+/* ==== Footer ==== */
+.page-columns .content .page-footer{
+  margin-top:3rem;
+  padding-top:1rem;
+  border-top:1px solid var(--border);
+  color:var(--muted);
+  font-size:.95rem;
+}
+
+/* ==== Responsive ==== */
+@media (max-width: 992px){
+  .page-columns .content{
+    padding:20px 18px;
+    border-radius:10px;
+  }
+}
+
+/* ==== fig centrerad ==== */
+.figure-center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* =========================================================
+   DOWNLOAD-KNAPP
+   ========================================================= */
+
+.download-dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.download-btn {
+  background-color: #0066CC;
+  color: white;
+  padding: 6px 12px;
+  font-size: 0.85rem;
+  border-radius: 4px;
+  font-weight: 500;
+  cursor: pointer;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.15);
+  white-space: nowrap;
+}
+
+.download-menu {
+  display: none;
+  position: absolute;
+  right: 0;
+  background-color: white;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+  z-index: 1000;
+}
+
+.download-menu a {
+  display: block;
+  padding: 4px 10px;
+  font-size: 0.85rem;
+  color: #333;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.download-menu a:hover {
+  background-color: #f2f2f2;
+}
+
+.download-dropdown:hover .download-menu {
+  display: block;
+}
+
+.download-wrap{
+  margin-top: 0.5rem;
+  display: flex;
+  justify-content: flex-end; /* höger */
+  width: 100%;
+}
+
+/* =========================================================
+   MATCHNING – DROPDOWN-SWITCH
+   ========================================================= */
+
+.matching-switch {
+  display: flex;
+  justify-content: flex-end;
+  gap: .5rem;
+  margin: .5rem 0 1rem 0;
+}
+
+.matching-switch label {
+  font-size: .9rem;
+  color: #444;
+}
+
+.matching-switch select {
+  font-size: .9rem;
+  padding: .25rem .5rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  background: white;
+}
+
+/* =========================================================
+   KPI-RUTOR + SEKTIONS-KORT + FLODESKORT
+   ========================================================= */
+
+/* ==== KPI boxes ==== */
+
+/* Rad-variant (flex) – om du vill använda den någonstans */
+.kpi-row {
+  display:flex;
+  gap:1rem;
+  margin:1rem 0;
+  flex-wrap:wrap;
+}
+.kpi-row .kpi {
+  flex:1 1 220px;
+}
+
+/* Grid-variant (rekommenderas) */
+.kpi-grid{
+  display:grid;
+  grid-template-columns: repeat(2, minmax(260px, 1fr)); /* två kolumner */
+  gap: 1rem;
+  margin: 1rem 0;
+}
+@media (max-width: 720px){
+  .kpi-grid{ grid-template-columns: 1fr; }
+}
+
+.kpi{
+  background:#f8f9fa;
+  border:1px solid #e9ecef;
+  border-radius:14px;
+  padding:1rem 1.25rem;
+  box-shadow:0 2px 12px rgba(0,0,0,.06);
+}
+.kpi .kpi-label{
+  text-transform:uppercase;
+  font-size:.8rem;
+  letter-spacing:.04em;
+  color:#6c757d;
+  margin-bottom:.25rem;
+}
+.kpi .kpi-value{
+  font-size:1.9rem;
+  font-weight:800;
+  line-height:1.1;
+}
+.kpi .kpi-sub{
+  font-size:.95rem;
+  color:#6c757d;
+  margin-top:.2rem;
+}
+
+/* ==== Sektion / Card – runt KPI + graf ==== */
+
+.section-card{
+  background:#fff;
+  border:1px solid #e9ecef;
+  border-radius:16px;
+  box-shadow:0 6px 20px rgba(0,0,0,.06);
+  padding:1.25rem;
+  margin:1rem 0 2rem;
+}
+.section-card .card-header{
+  display:flex;
+  align-items:baseline;
+  justify-content:space-between;
+  gap:1rem;
+  margin-bottom:1rem;
+  border-bottom:1px solid #f0f2f4;
+  padding-bottom:.5rem;
+}
+.section-card .card-title{
+  font-size:1.25rem;           /* h4-ish */
+  font-weight:700;
+  margin:0;
+}
+.section-card .chart{
+  margin-top:.5rem;
+}
+
+/* Frivillig klass om du vill styla mellanrubriken i texten */
+.section-title{
+  margin-top:.5rem;
+}
+
+/* ==== Flödeskort / pilar (om du använder flow-visualisering) ==== */
+
+.flow-card{
+  background:#fff;
+  border:1px solid #e9ecef;
+  border-radius:16px;
+  box-shadow:0 6px 20px rgba(0,0,0,.06);
+  padding:16px;
+  margin:16px 0;
+}
+.flow-grid{
+  display:grid;
+  grid-template-columns:1fr auto 1fr;
+  gap:16px;
+  align-items:center;
+}
+.kpi-box{
+  background:#6e0d57;
+  color:#fff;
+  border-radius:12px;
+  padding:14px 18px;
+  box-shadow:0 2px 10px rgba(0,0,0,.08);
+}
+.kpi-box .label{
+  text-transform:uppercase;
+  font-size:.85rem;
+  opacity:.9;
+}
+.kpi-box .value{
+  font-size:1.6rem;
+  font-weight:800;
+  line-height:1;
+  margin-top:.2rem;
+}
+.kpi-box .sub{
+  font-size:.9rem;
+  opacity:.9;
+}
+
+.pill{
+  background:#f8f9fa;
+  border:1px solid #e9ecef;
+  border-radius:12px;
+  padding:12px 14px;
+  width:260px;
+}
+.pill-title{
+  font-weight:800;
+  margin-bottom:.35rem;
+}
+.pill ul{
+  list-style:none;
+  padding:0;
+  margin:0;
+  font-size:.95rem;
+}
+.pill li strong{
+  font-weight:800;
+}
+
+.svg-wrap{
+  width:220px;
+  height:120px;
+}
+.arrow-red{
+  stroke:#e03131;
+  fill:none;
+  stroke-width:3;
+  marker-end:url(#arrowHeadRed);
+}
+.arrow-green{
+  stroke:#2f9e44;
+  fill:none;
+  stroke-width:3;
+  marker-end:url(#arrowHeadGreen);
+}
+.note{
+  font-size:.9rem;
+  color:#666;
+  margin-top:.35rem;
+}
+
+@media (max-width:900px){
+  .flow-grid{
+    grid-template-columns:1fr;
+  }
+  .svg-wrap{
+    display:none; /* göm pilar på mobil om du vill */
+  }
+}
+
+
+/* =====================================================
+   Floating kontakt-widget (chatt-ikon + kontaktbox)
+   ===================================================== */
+
+/* Yttersta behållaren som håller både knapp och ruta */
+.contact-widget {
+  position: fixed;          /* Ligger fast på skärmen även vid scroll */
+  right: 20px;              /* Avstånd från högerkanten */
+  bottom: 20px;             /* Avstånd från nederkanten */
+  z-index: 10000;            /* Säkerställer att den ligger över annat innehåll */
+  
+  user-select: none;        /* Förhindrar att text utanför rutan markeras */
+}
+
+
+/* Den runda chatt-knappen (💬) */
+.contact-button {
+  width: 58px;              /* Knappens bredd */
+  height: 58px;             /* Knappens höjd */
+  border-radius: 50%;       /* Gör knappen helt rund */
+  background: var(--accent);/* Färg från temavariabel */
+  color: #fff;              /* Vit ikon/text */
+  display: flex;            /* Centrerar innehållet */
+  align-items: center;      /* Vertikal centrering */
+  justify-content: center;  /* Horisontell centrering */
+  font-size: 2rem;          /* Storlek på 💬-ikonen */
+  cursor: pointer;          /* Visar att knappen är klickbar */
+  box-shadow: 0 6px 16px rgba(0,0,0,.2); /* Skugga för “flytande” känsla */
+  
+  user-select: none;        /* Förhindrar textmarkering på knappen */
+}
+
+/* Själva kontakt-rutan (dold tills man klickar) */
+.contact-widget .floating-contact-box {
+  display: none;            /* Dold som standard */
+  position: absolute;       /* Positioneras relativt .contact-widget */
+  bottom: 75px;             /* Placeras ovanför chatt-knappen */
+  right: 0;                 /* Högerjusterad mot knappen */
+  width: 360px;             /* Bredd på rutan */
+  min-height: 50px;         /* valfri minhöjd */
+  padding: 14px 14px;       /* Inre marginaler */
+  background: #fff;         /* Vit bakgrund */
+  border: 1px solid var(--border); /* Diskret ram */
+  border-radius: 10px;      /* Rundade hörn */
+  padding-left: 16px;
+  padding-right: 16px;
+  box-shadow: 0 6px 16px rgba(0,0,0,.12); /* Skugga */
+  font-size: 1rem;          /* Textstorlek */
+  line-height: 1.4;         /* Radavstånd */
+  color: var(--text);       /* Textfärg från tema */
+  z-index: 1000000;
+  
+  user-select: text;        /* Tillåter markering och kopiering av text */
+  cursor: text;             /* Visar textmarkör vid hover */
+  overflow: visible;       /* Stoppar markering utanför */
+  contain: layout paint;  /* Isolerar rutan från övrig layout */
+  pointer-events: auto;
+}
+
+
+/* Den osynliga checkboxen som styr öppna/stäng */
+#contact-toggle {
+  position: absolute;       /* Tas ur flödet */
+  opacity: 0;               /* Helt osynlig */
+  pointer-events: none;     /* Går inte att klicka direkt */
+}
+
+/* När checkboxen är ikryssad → visa kontakt-rutan */
+#contact-toggle:checked ~ .floating-contact-box {
+  display: block;
+}
+
+
+/* Enkel fade-in-animation när rutan visas */
+.contact-widget .floating-contact-box {
+  animation: fadeIn .2s ease-out;
+}
+
+/* Definition av fade-in-animationen */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Dölj hela widgeten på små skärmar (mobil) */
+@media (max-width: 768px) {
+  .contact-widget {
+    display: none;
+  }
+}

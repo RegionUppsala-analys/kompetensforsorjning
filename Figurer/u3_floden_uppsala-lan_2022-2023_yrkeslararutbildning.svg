@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='576.00pt' height='288.00pt' viewBox='0 0 576.00 288.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHwyODguMDA='>
+    <rect x='0.00' y='0.00' width='576.00' height='288.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHwyODguMDA=)'>
+<rect x='0.00' y='0.00' width='576.00' height='288.00' style='stroke-width: 1.26; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNTAuNTB8NTYwLjA2fDkuOTZ8MjYwLjAy'>
+    <rect x='50.50' y='9.96' width='509.56' height='250.06' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNTAuNTB8NTYwLjA2fDkuOTZ8MjYwLjAy)'>
+<polyline points='50.50,199.35 560.06,199.35 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='50.50,137.44 560.06,137.44 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='50.50,75.54 560.06,75.54 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='50.50,13.63 560.06,13.63 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='99.81,260.02 99.81,9.96 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='182.00,260.02 182.00,9.96 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='264.19,260.02 264.19,9.96 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='346.37,260.02 346.37,9.96 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='428.56,260.02 428.56,9.96 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='510.75,260.02 510.75,9.96 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='66.94' y='130.01' width='65.75' height='7.43' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #006400;' />
+<rect x='149.12' y='89.16' width='65.75' height='48.29' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #006400;' />
+<rect x='231.31' y='137.44' width='65.75' height='0.00' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #006400;' />
+<rect x='313.50' y='137.44' width='65.75' height='26.00' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #B22222;' />
+<rect x='395.68' y='137.44' width='65.75' height='4.95' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #B22222;' />
+<rect x='477.87' y='137.44' width='65.75' height='4.95' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #B22222;' />
+<line x1='50.50' y1='137.44' x2='560.06' y2='137.44' style='stroke-width: 1.26; stroke: #8C8C8C; stroke-linecap: butt;' />
+<text x='99.81' y='96.74' text-anchor='middle' style='font-size: 10.81px; font-family: "Arial";' textLength='6.00px' lengthAdjust='spacingAndGlyphs'>6</text>
+<text x='182.00' y='55.88' text-anchor='middle' style='font-size: 10.81px; font-family: "Arial";' textLength='12.01px' lengthAdjust='spacingAndGlyphs'>39</text>
+<text x='264.19' y='104.17' text-anchor='middle' style='font-size: 10.81px; font-family: "Arial";' textLength='6.00px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='346.37' y='204.46' text-anchor='middle' style='font-size: 10.81px; font-family: "Arial";' textLength='15.61px' lengthAdjust='spacingAndGlyphs'>-21</text>
+<text x='428.56' y='183.41' text-anchor='middle' style='font-size: 10.81px; font-family: "Arial";' textLength='9.60px' lengthAdjust='spacingAndGlyphs'>-4</text>
+<text x='510.75' y='183.41' text-anchor='middle' style='font-size: 10.81px; font-family: "Arial";' textLength='9.60px' lengthAdjust='spacingAndGlyphs'>-4</text>
+</g>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHwyODguMDA=)'>
+<text x='44.67' y='203.29' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='15.90px' lengthAdjust='spacingAndGlyphs'>-50</text>
+<text x='44.67' y='141.38' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='6.12px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='44.67' y='79.47' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='12.24px' lengthAdjust='spacingAndGlyphs'>50</text>
+<text x='44.67' y='17.57' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='18.36px' lengthAdjust='spacingAndGlyphs'>100</text>
+<text x='99.81' y='273.73' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='44.66px' lengthAdjust='spacingAndGlyphs'>Inflyttade</text>
+<text x='182.00' y='273.73' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='64.83px' lengthAdjust='spacingAndGlyphs'>Examinerade</text>
+<text x='264.19' y='273.73' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='50.16px' lengthAdjust='spacingAndGlyphs'>18-åringar</text>
+<text x='346.37' y='273.73' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='39.76px' lengthAdjust='spacingAndGlyphs'>Pension</text>
+<text x='428.56' y='273.73' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='76.26px' lengthAdjust='spacingAndGlyphs'>Vidareutbildade</text>
+<text x='510.75' y='273.73' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='46.48px' lengthAdjust='spacingAndGlyphs'>Utflyttade</text>
+<text transform='translate(20.55,134.99) rotate(-90)' text-anchor='middle' style='font-size: 12.00px; font-weight: bold; font-family: "Arial";' textLength='84.69px' lengthAdjust='spacingAndGlyphs'>Antal personer</text>
+</g>
+</svg>

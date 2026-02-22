@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='720.00pt' height='324.00pt' viewBox='0 0 720.00 324.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw3MjAuMDB8MC4wMHwzMjQuMDA='>
+    <rect x='0.00' y='0.00' width='720.00' height='324.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHwzMjQuMDA=)'>
+<rect x='0.00' y='0.00' width='720.00' height='324.00' style='stroke-width: 1.26; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNDguMDh8NzEzLjUyfDUwLjAxfDI4NS43Ng=='>
+    <rect x='48.08' y='50.01' width='665.45' height='235.75' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNDguMDh8NzEzLjUyfDUwLjAxfDI4NS43Ng==)'>
+<rect x='48.08' y='50.01' width='665.45' height='235.75' style='stroke-width: 1.26; stroke: none; fill: #FFFFFF;' />
+<polyline points='59.45,285.76 59.45,50.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='201.64,285.76 201.64,50.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='343.83,285.76 343.83,50.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='486.02,285.76 486.02,50.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='628.21,285.76 628.21,50.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='59.45,60.72 201.64,82.15 343.83,103.59 486.02,125.02 628.21,82.15 ' style='stroke-width: 2.56; stroke: #C87000;' />
+<polyline points='59.45,210.75 201.64,232.18 343.83,275.04 486.02,210.75 628.21,125.02 ' style='stroke-width: 2.56; stroke: #1F4764;' />
+<polyline points='59.45,125.02 201.64,167.88 343.83,189.31 486.02,167.88 628.21,103.59 ' style='stroke-width: 2.56; stroke: #6BA292;' />
+<circle cx='59.45' cy='210.75' r='2.87' style='stroke-width: 0.84; stroke: #1F4764; fill: #1F4764;' />
+<circle cx='201.64' cy='232.18' r='2.87' style='stroke-width: 0.84; stroke: #1F4764; fill: #1F4764;' />
+<circle cx='343.83' cy='275.04' r='2.87' style='stroke-width: 0.84; stroke: #1F4764; fill: #1F4764;' />
+<circle cx='486.02' cy='210.75' r='2.87' style='stroke-width: 0.84; stroke: #1F4764; fill: #1F4764;' />
+<circle cx='628.21' cy='125.02' r='2.87' style='stroke-width: 0.84; stroke: #1F4764; fill: #1F4764;' />
+<circle cx='59.45' cy='60.72' r='2.87' style='stroke-width: 0.84; stroke: #C87000; fill: #C87000;' />
+<circle cx='201.64' cy='82.15' r='2.87' style='stroke-width: 0.84; stroke: #C87000; fill: #C87000;' />
+<circle cx='343.83' cy='103.59' r='2.87' style='stroke-width: 0.84; stroke: #C87000; fill: #C87000;' />
+<circle cx='486.02' cy='125.02' r='2.87' style='stroke-width: 0.84; stroke: #C87000; fill: #C87000;' />
+<circle cx='628.21' cy='82.15' r='2.87' style='stroke-width: 0.84; stroke: #C87000; fill: #C87000;' />
+<circle cx='59.45' cy='125.02' r='2.87' style='stroke-width: 0.84; stroke: #6BA292; fill: #6BA292;' />
+<circle cx='201.64' cy='167.88' r='2.87' style='stroke-width: 0.84; stroke: #6BA292; fill: #6BA292;' />
+<circle cx='343.83' cy='189.31' r='2.87' style='stroke-width: 0.84; stroke: #6BA292; fill: #6BA292;' />
+<circle cx='486.02' cy='167.88' r='2.87' style='stroke-width: 0.84; stroke: #6BA292; fill: #6BA292;' />
+<circle cx='628.21' cy='103.59' r='2.87' style='stroke-width: 0.84; stroke: #6BA292; fill: #6BA292;' />
+<text x='630.31' y='128.88' style='font-size: 10.81px;fill: #1F4764; font-family: "Arial";' textLength='21.01px' lengthAdjust='spacingAndGlyphs'>Män</text>
+<text x='631.87' y='86.02' style='font-size: 10.81px;fill: #C87000; font-family: "Arial";' textLength='36.61px' lengthAdjust='spacingAndGlyphs'>Kvinnor</text>
+<text x='630.79' y='107.45' style='font-size: 10.81px;fill: #6BA292; font-family: "Arial";' textLength='25.81px' lengthAdjust='spacingAndGlyphs'>Totalt</text>
+</g>
+<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHwzMjQuMDA=)'>
+<text x='42.25' y='246.83' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='21.42px' lengthAdjust='spacingAndGlyphs'>8.25</text>
+<text x='42.25' y='193.25' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='21.42px' lengthAdjust='spacingAndGlyphs'>8.50</text>
+<text x='42.25' y='139.67' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='21.42px' lengthAdjust='spacingAndGlyphs'>8.75</text>
+<text x='42.25' y='86.09' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='21.42px' lengthAdjust='spacingAndGlyphs'>9.00</text>
+<text x='59.45' y='299.46' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>2019</text>
+<text x='201.64' y='299.46' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>2020</text>
+<text x='343.83' y='299.46' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>2021</text>
+<text x='486.02' y='299.46' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>2022</text>
+<text x='628.21' y='299.46' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>2023</text>
+<text transform='translate(15.07,167.88) rotate(-90)' text-anchor='middle' style='font-size: 12.00px; font-weight: bold; font-family: "Arial";' textLength='55.33px' lengthAdjust='spacingAndGlyphs'>Andel (%)</text>
+<text x='48.08' y='40.79' style='font-size: 13.00px;fill: #555555; font-family: "Arial";' textLength='140.94px' lengthAdjust='spacingAndGlyphs'>Uppsala län, 2019–2023</text>
+<text x='48.08' y='20.80' style='font-size: 20.00px; font-weight: bold;fill: #B81867; font-family: "Arial";' textLength='420.26px' lengthAdjust='spacingAndGlyphs'>Andel av förvärvsarbetande som är 60–64 år</text>
+<text x='713.52' y='315.42' text-anchor='end' style='font-size: 10.00px;fill: #666666; font-family: "Arial";' textLength='130.68px' lengthAdjust='spacingAndGlyphs'>Källa: SCB, RegionInd19U4N</text>
+</g>
+</svg>

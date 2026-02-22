@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='720.00pt' height='360.00pt' viewBox='0 0 720.00 360.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw3MjAuMDB8MC4wMHwzNjAuMDA='>
+    <rect x='0.00' y='0.00' width='720.00' height='360.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHwzNjAuMDA=)'>
+<rect x='0.00' y='0.000000000000057' width='720.00' height='360.00' style='stroke-width: 1.26; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNjAuMzJ8NjIyLjg4fDUwLjAxfDMwNy40Mw=='>
+    <rect x='60.32' y='50.01' width='562.56' height='257.43' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNjAuMzJ8NjIyLjg4fDUwLjAxfDMwNy40Mw==)'>
+<polyline points='60.32,275.70 622.88,275.70 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='60.32,217.79 622.88,217.79 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='60.32,159.88 622.88,159.88 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='60.32,101.97 622.88,101.97 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='128.51,307.43 128.51,50.01 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='213.75,307.43 213.75,50.01 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='298.98,307.43 298.98,50.01 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='384.22,307.43 384.22,50.01 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='469.46,307.43 469.46,50.01 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='554.69,307.43 554.69,50.01 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='60.32,304.65 622.88,304.65 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='60.32,246.74 622.88,246.74 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='60.32,188.83 622.88,188.83 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='60.32,130.92 622.88,130.92 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='60.32,73.01 622.88,73.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='85.89,307.43 85.89,50.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='171.13,307.43 171.13,50.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='256.36,307.43 256.36,50.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='341.60,307.43 341.60,50.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='426.84,307.43 426.84,50.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='512.08,307.43 512.08,50.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='597.31,307.43 597.31,50.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='85.89,293.65 102.94,295.73 119.98,290.75 137.03,286.12 154.08,282.07 171.13,248.25 188.17,221.61 205.22,200.64 222.27,172.62 239.32,174.01 256.36,148.87 273.41,136.25 290.46,142.16 307.51,164.62 ' style='stroke-width: 2.13; stroke-linecap: butt;' />
+<polyline points='324.55,160.54 341.60,154.93 358.65,149.47 375.70,144.30 392.74,138.96 409.79,133.46 426.84,127.77 443.89,121.90 460.93,115.88 477.98,109.74 495.03,103.85 512.08,97.94 529.12,91.79 546.17,85.20 563.22,78.06 580.26,70.26 597.31,61.71 ' style='stroke-width: 2.13; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<line x1='324.55' y1='307.43' x2='324.55' y2='50.01' style='stroke-width: 1.28; stroke: #666666; stroke-dasharray: 6.83,6.83; stroke-linecap: butt;' />
+</g>
+<g clip-path='url(#cpMC4wMHw3MjAuMDB8MC4wMHwzNjAuMDA=)'>
+<text x='54.49' y='308.59' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='33.66px' lengthAdjust='spacingAndGlyphs'>20 000</text>
+<text x='54.49' y='250.68' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='33.66px' lengthAdjust='spacingAndGlyphs'>20 500</text>
+<text x='54.49' y='192.77' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='33.66px' lengthAdjust='spacingAndGlyphs'>21 000</text>
+<text x='54.49' y='134.86' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='33.66px' lengthAdjust='spacingAndGlyphs'>21 500</text>
+<text x='54.49' y='76.95' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='33.66px' lengthAdjust='spacingAndGlyphs'>22 000</text>
+<text transform='translate(91.46,318.83) rotate(-45)' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>2010</text>
+<text transform='translate(176.70,318.83) rotate(-45)' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>2015</text>
+<text transform='translate(261.93,318.83) rotate(-45)' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>2020</text>
+<text transform='translate(347.17,318.83) rotate(-45)' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>2025</text>
+<text transform='translate(432.41,318.83) rotate(-45)' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>2030</text>
+<text transform='translate(517.64,318.83) rotate(-45)' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>2035</text>
+<text transform='translate(602.88,318.83) rotate(-45)' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.48px' lengthAdjust='spacingAndGlyphs'>2040</text>
+<text transform='translate(15.07,178.72) rotate(-90)' text-anchor='middle' style='font-size: 12.00px; font-weight: bold; font-family: "Arial";' textLength='82.70px' lengthAdjust='spacingAndGlyphs'>Antal invånare</text>
+<line x1='644.04' y1='170.08' x2='657.86' y2='170.08' style='stroke-width: 2.13; stroke-linecap: butt;' />
+<line x1='644.04' y1='187.36' x2='657.86' y2='187.36' style='stroke-width: 2.13; stroke-dasharray: 5.69,5.69; stroke-linecap: butt;' />
+<text x='666.07' y='174.02' style='font-size: 11.00px; font-family: "Arial";' textLength='36.67px' lengthAdjust='spacingAndGlyphs'>Historik</text>
+<text x='666.07' y='191.30' style='font-size: 11.00px; font-family: "Arial";' textLength='40.98px' lengthAdjust='spacingAndGlyphs'>Prognos</text>
+<text x='60.32' y='40.79' style='font-size: 13.00px;fill: #555555; font-family: "Arial";' textLength='139.69px' lengthAdjust='spacingAndGlyphs'>Tierp (visas 2010–2040)</text>
+<text x='60.32' y='20.80' style='font-size: 20.00px; font-weight: bold;fill: #B81867; font-family: "Arial";' textLength='327.84px' lengthAdjust='spacingAndGlyphs'>Folkmängd – historik och prognos</text>
+<text x='622.88' y='351.42' text-anchor='end' style='font-size: 10.00px;fill: #666666; font-family: "Arial";' textLength='204.67px' lengthAdjust='spacingAndGlyphs'>Källa: SCB. Databearbetning: Region Uppsala</text>
+</g>
+</svg>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='648.00pt' height='288.00pt' viewBox='0 0 648.00 288.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw2NDguMDB8MC4wMHwyODguMDA='>
+    <rect x='0.00' y='0.00' width='648.00' height='288.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw2NDguMDB8MC4wMHwyODguMDA=)'>
+<rect x='0.00' y='0.00' width='648.00' height='288.00' style='stroke-width: 1.26; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNTcuODZ8NjQxLjUyfDMxLjQ4fDIwNi41OA=='>
+    <rect x='57.86' y='31.48' width='583.66' height='175.09' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNTcuODZ8NjQxLjUyfDMxLjQ4fDIwNi41OA==)'>
+<polyline points='57.86,178.72 641.52,178.72 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='57.86,138.93 641.52,138.93 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='57.86,99.13 641.52,99.13 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='57.86,59.34 641.52,59.34 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='57.86,198.62 641.52,198.62 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='57.86,158.82 641.52,158.82 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='57.86,119.03 641.52,119.03 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='57.86,79.24 641.52,79.24 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='57.86,39.44 641.52,39.44 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='167.30,206.58 167.30,31.48 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='349.69,206.58 349.69,31.48 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='532.09,206.58 532.09,31.48 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='267.62' y='87.51' width='82.08' height='111.10' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #999999;' />
+<rect x='450.01' y='81.78' width='82.08' height='116.83' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #999999;' />
+<rect x='85.22' y='84.65' width='82.08' height='113.97' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #999999;' />
+<rect x='349.69' y='87.83' width='82.08' height='110.79' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #9E1863;' />
+<rect x='532.09' y='81.46' width='82.08' height='117.15' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #9E1863;' />
+<rect x='167.30' y='84.65' width='82.08' height='113.97' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #9E1863;' />
+</g>
+<g clip-path='url(#cpMC4wMHw2NDguMDB8MC4wMHwyODguMDA=)'>
+<text x='52.04' y='202.56' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='18.96px' lengthAdjust='spacingAndGlyphs'>0 %</text>
+<text x='52.04' y='162.76' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='25.08px' lengthAdjust='spacingAndGlyphs'>25 %</text>
+<text x='52.04' y='122.97' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='25.08px' lengthAdjust='spacingAndGlyphs'>50 %</text>
+<text x='52.04' y='83.17' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='25.08px' lengthAdjust='spacingAndGlyphs'>75 %</text>
+<text x='52.04' y='43.38' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='31.20px' lengthAdjust='spacingAndGlyphs'>100 %</text>
+<text x='167.30' y='220.28' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='26.30px' lengthAdjust='spacingAndGlyphs'>Totalt</text>
+<text x='349.69' y='220.28' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='21.41px' lengthAdjust='spacingAndGlyphs'>Män</text>
+<text x='532.09' y='220.28' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='37.30px' lengthAdjust='spacingAndGlyphs'>Kvinnor</text>
+<text transform='translate(15.07,119.03) rotate(-90)' text-anchor='middle' style='font-size: 12.00px; font-weight: bold; font-family: "Arial";' textLength='114.67px' lengthAdjust='spacingAndGlyphs'>Matchningsgrad (%)</text>
+<text x='257.55' y='254.96' style='font-size: 12.00px; font-weight: bold; font-family: "Arial";' textLength='40.67px' lengthAdjust='spacingAndGlyphs'>Region</text>
+<rect x='305.52' y='242.86' width='15.60' height='15.60' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #999999;' />
+<rect x='360.82' y='242.86' width='15.60' height='15.60' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #9E1863;' />
+<text x='328.44' y='254.60' style='font-size: 11.00px; font-family: "Arial";' textLength='25.06px' lengthAdjust='spacingAndGlyphs'>Riket</text>
+<text x='383.74' y='254.60' style='font-size: 11.00px; font-family: "Arial";' textLength='58.10px' lengthAdjust='spacingAndGlyphs'>Uppsala län</text>
+<text x='57.86' y='20.80' style='font-size: 20.00px; font-weight: bold;fill: #B81867; font-family: "Arial";' textLength='526.85px' lengthAdjust='spacingAndGlyphs'>Matchningsgrad efter kön - Uppsala län och riket (2023)</text>
+<text x='641.52' y='279.42' text-anchor='end' style='font-size: 10.00px;fill: #666666; font-family: "Arial";' textLength='48.36px' lengthAdjust='spacingAndGlyphs'>Källa: SCB</text>
+</g>
+</svg>
