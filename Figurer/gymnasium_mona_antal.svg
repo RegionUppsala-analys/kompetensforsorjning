@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='576.00pt' height='216.00pt' viewBox='0 0 576.00 216.00'>
+<g class='svglite'>
+<defs>
+  <style type='text/css'><![CDATA[
+    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+    .svglite text {
+      white-space: pre;
+    }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<defs>
+  <clipPath id='cpMC4wMHw1NzYuMDB8MC4wMHwyMTYuMDA='>
+    <rect x='0.00' y='0.00' width='576.00' height='216.00' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHwyMTYuMDA=)'>
+<rect x='0.00' y='-0.000000000000057' width='576.00' height='216.00' style='stroke-width: 1.26; stroke: none; fill: #FFFFFF;' />
+</g>
+<defs>
+  <clipPath id='cpNTQuMjJ8NTY5LjUyfDI5LjYzfDE3Ny43Ng=='>
+    <rect x='54.22' y='29.63' width='515.30' height='148.12' />
+  </clipPath>
+</defs>
+<g clip-path='url(#cpNTQuMjJ8NTY5LjUyfDI5LjYzfDE3Ny43Ng==)'>
+<polyline points='54.22,162.37 569.52,162.37 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='54.22,131.59 569.52,131.59 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='54.22,100.80 569.52,100.80 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='54.22,70.02 569.52,70.02 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='54.22,39.24 569.52,39.24 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='54.22,177.76 569.52,177.76 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='54.22,146.98 569.52,146.98 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='54.22,116.19 569.52,116.19 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='54.22,85.41 569.52,85.41 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='54.22,54.63 569.52,54.63 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='104.09,177.76 104.09,29.63 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='187.20,177.76 187.20,29.63 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='270.32,177.76 270.32,29.63 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='353.43,177.76 353.43,29.63 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='436.54,177.76 436.54,29.63 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='519.66,177.76 519.66,29.63 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='104.09,76.08 187.20,70.21 270.32,59.15 353.43,57.46 436.54,54.32 519.66,57.03 ' style='stroke-width: 2.13; stroke: #1F4764; stroke-linecap: butt;' />
+<circle cx='104.09' cy='76.08' r='3.09' style='stroke-width: 0.84; stroke: #1F4764; fill: #1F4764;' />
+<circle cx='187.20' cy='70.21' r='3.09' style='stroke-width: 0.84; stroke: #1F4764; fill: #1F4764;' />
+<circle cx='270.32' cy='59.15' r='3.09' style='stroke-width: 0.84; stroke: #1F4764; fill: #1F4764;' />
+<circle cx='353.43' cy='57.46' r='3.09' style='stroke-width: 0.84; stroke: #1F4764; fill: #1F4764;' />
+<circle cx='436.54' cy='54.32' r='3.09' style='stroke-width: 0.84; stroke: #1F4764; fill: #1F4764;' />
+<circle cx='519.66' cy='57.03' r='3.09' style='stroke-width: 0.84; stroke: #1F4764; fill: #1F4764;' />
+<text x='104.09' y='71.09' text-anchor='middle' style='font-size: 9.96px; font-family: "Arial";' textLength='24.89px' lengthAdjust='spacingAndGlyphs'>3 303</text>
+<text x='187.20' y='65.22' text-anchor='middle' style='font-size: 9.96px; font-family: "Arial";' textLength='24.89px' lengthAdjust='spacingAndGlyphs'>3 494</text>
+<text x='270.32' y='54.16' text-anchor='middle' style='font-size: 9.96px; font-family: "Arial";' textLength='24.89px' lengthAdjust='spacingAndGlyphs'>3 853</text>
+<text x='353.43' y='52.47' text-anchor='middle' style='font-size: 9.96px; font-family: "Arial";' textLength='24.89px' lengthAdjust='spacingAndGlyphs'>3 908</text>
+<text x='436.54' y='49.33' text-anchor='middle' style='font-size: 9.96px; font-family: "Arial";' textLength='24.89px' lengthAdjust='spacingAndGlyphs'>4 010</text>
+<text x='519.66' y='52.04' text-anchor='middle' style='font-size: 9.96px; font-family: "Arial";' textLength='24.89px' lengthAdjust='spacingAndGlyphs'>3 922</text>
+</g>
+<g clip-path='url(#cpMC4wMHw1NzYuMDB8MC4wMHwyMTYuMDA=)'>
+<text x='48.39' y='181.70' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='6.12px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='48.39' y='150.91' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='27.56px' lengthAdjust='spacingAndGlyphs'>1 000</text>
+<text x='48.39' y='120.13' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='27.56px' lengthAdjust='spacingAndGlyphs'>2 000</text>
+<text x='48.39' y='89.35' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='27.56px' lengthAdjust='spacingAndGlyphs'>3 000</text>
+<text x='48.39' y='58.57' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='27.56px' lengthAdjust='spacingAndGlyphs'>4 000</text>
+<text x='104.09' y='191.46' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.50px' lengthAdjust='spacingAndGlyphs'>2019</text>
+<text x='187.20' y='191.46' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.50px' lengthAdjust='spacingAndGlyphs'>2020</text>
+<text x='270.32' y='191.46' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.50px' lengthAdjust='spacingAndGlyphs'>2021</text>
+<text x='353.43' y='191.46' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.50px' lengthAdjust='spacingAndGlyphs'>2022</text>
+<text x='436.54' y='191.46' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.50px' lengthAdjust='spacingAndGlyphs'>2023</text>
+<text x='519.66' y='191.46' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='24.50px' lengthAdjust='spacingAndGlyphs'>2024</text>
+<text x='54.22' y='19.36' style='font-size: 18.00px; font-weight: bold;fill: #B81867; font-family: "Arial";' textLength='363.25px' lengthAdjust='spacingAndGlyphs'>Antal avgångselever från gymnasiet per år</text>
+<text x='569.52' y='207.42' text-anchor='end' style='font-size: 10.00px;fill: #666666; font-family: "Arial";' textLength='204.59px' lengthAdjust='spacingAndGlyphs'>Källa: SCB. Databearbetning: Region Uppsala</text>
+</g>
+</g>
+</svg>
