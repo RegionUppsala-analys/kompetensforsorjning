@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8' ?>
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='864.00pt' height='504.00pt' viewBox='0 0 864.00 504.00'>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='864.00pt' height='504.00pt' viewBox='0 0 864.00 504.00'>
+<g class='svglite'>
 <defs>
   <style type='text/css'><![CDATA[
     .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {
@@ -12,6 +13,10 @@
     .svglite text {
       white-space: pre;
     }
+    .svglite g.glyphgroup path {
+      fill: inherit;
+      stroke: none;
+    }
   ]]></style>
 </defs>
 <rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
@@ -21,71 +26,82 @@
   </clipPath>
 </defs>
 <g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw1MDQuMDA=)'>
-<rect x='0.00' y='0.00' width='864.00' height='504.00' style='stroke-width: 1.26; stroke: none; fill: #FFFFFF;' />
+<rect x='0.000000000000064' y='0.00' width='864.00' height='504.00' style='stroke-width: 1.26; stroke: none; fill: #FFFFFF;' />
 </g>
 <defs>
-  <clipPath id='cpMzMyLjQxfDg1Ni4wM3w0Ny4xNnw0MDMuNTU='>
-    <rect x='332.41' y='47.16' width='523.62' height='356.39' />
+  <clipPath id='cpMzMyLjUwfDg0NC4wN3w0OS4wMXw0MDEuMzY='>
+    <rect x='332.50' y='49.01' width='511.58' height='352.35' />
   </clipPath>
 </defs>
-<g clip-path='url(#cpMzMyLjQxfDg1Ni4wM3w0Ny4xNnw0MDMuNTU=)'>
-<polyline points='394.15,403.55 394.15,47.16 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='517.65,403.55 517.65,47.16 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='641.15,403.55 641.15,47.16 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='764.64,403.55 764.64,47.16 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='332.41,373.85 856.03,373.85 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='332.41,324.35 856.03,324.35 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='332.41,274.85 856.03,274.85 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='332.41,225.35 856.03,225.35 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='332.41,175.86 856.03,175.86 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='332.41,126.36 856.03,126.36 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='332.41,76.86 856.03,76.86 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='332.41,403.55 332.41,47.16 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='455.90,403.55 455.90,47.16 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='579.40,403.55 579.40,47.16 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='702.89,403.55 702.89,47.16 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<polyline points='826.39,403.55 826.39,47.16 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
-<rect x='332.41' y='56.65' width='111.15' height='12.37' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #1F4764;' />
-<rect x='332.41' y='70.67' width='86.45' height='12.37' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #C87000;' />
-<rect x='332.41' y='84.70' width='197.59' height='12.37' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #6B6B6B;' />
-<rect x='332.41' y='134.19' width='370.49' height='12.37' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #6B6B6B;' />
-<rect x='332.41' y='205.14' width='345.79' height='12.37' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #1F4764;' />
-<rect x='332.41' y='219.17' width='86.45' height='12.37' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #C87000;' />
-<rect x='332.41' y='233.19' width='432.24' height='12.37' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #6B6B6B;' />
-<rect x='332.41' y='353.64' width='148.20' height='12.37' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #1F4764;' />
-<rect x='332.41' y='367.66' width='345.79' height='12.37' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #C87000;' />
-<rect x='332.41' y='381.69' width='493.98' height='12.37' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #6B6B6B;' />
-<rect x='332.41' y='155.64' width='61.75' height='12.37' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #1F4764;' />
-<rect x='332.41' y='169.67' width='370.49' height='12.37' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #C87000;' />
-<rect x='332.41' y='183.69' width='432.24' height='12.37' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #6B6B6B;' />
-<rect x='332.41' y='254.64' width='0.00' height='12.37' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #1F4764;' />
-<rect x='332.41' y='268.67' width='456.94' height='12.37' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #C87000;' />
-<rect x='332.41' y='282.69' width='456.94' height='12.37' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #6B6B6B;' />
-<rect x='332.41' y='332.19' width='469.29' height='12.37' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #6B6B6B;' />
+<g clip-path='url(#cpMzMyLjUwfDg0NC4wN3w0OS4wMXw0MDEuMzY=)'>
+<polyline points='390.63,401.36 390.63,49.01 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='506.90,401.36 506.90,49.01 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='623.17,401.36 623.17,49.01 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='739.43,401.36 739.43,49.01 ' style='stroke-width: 0.63; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='332.50,371.99 844.07,371.99 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='332.50,323.06 844.07,323.06 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='332.50,274.12 844.07,274.12 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='332.50,225.18 844.07,225.18 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='332.50,176.25 844.07,176.25 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='332.50,127.31 844.07,127.31 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='332.50,78.37 844.07,78.37 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='332.50,401.36 332.50,49.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='448.76,401.36 448.76,49.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='565.03,401.36 565.03,49.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='681.30,401.36 681.30,49.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<polyline points='797.57,401.36 797.57,49.01 ' style='stroke-width: 1.26; stroke: #EBEBEB; stroke-linecap: butt;' />
+<rect x='332.50' y='305.93' width='348.80' height='34.26' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #888780;' />
+<rect x='332.50' y='110.18' width='441.82' height='34.26' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #888780;' />
+<rect x='332.50' y='354.87' width='104.64' height='34.26' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #1F4764;' />
+<rect x='437.14' y='354.87' width='81.39' height='34.26' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #C87000;' />
+<rect x='332.50' y='256.99' width='325.55' height='34.26' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #1F4764;' />
+<rect x='658.05' y='256.99' width='81.39' height='34.26' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #C87000;' />
+<rect x='332.50' y='61.24' width='139.52' height='34.26' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #1F4764;' />
+<rect x='472.02' y='61.24' width='325.55' height='34.26' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #C87000;' />
+<rect x='332.50' y='208.05' width='58.13' height='34.26' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #1F4764;' />
+<rect x='390.63' y='208.05' width='348.80' height='34.26' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #C87000;' />
+<rect x='332.50' y='159.12' width='0.00' height='34.26' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #1F4764;' />
+<rect x='332.50' y='159.12' width='430.19' height='34.26' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #C87000;' />
+<text x='384.82' y='375.05' text-anchor='middle' style='font-size: 8.54px; font-weight: bold;fill: #FFFFFF; font-family: "Arial";' textLength='17.08px' lengthAdjust='spacingAndGlyphs'>56%</text>
+<text x='477.83' y='375.05' text-anchor='middle' style='font-size: 8.54px; font-weight: bold;fill: #FFFFFF; font-family: "Arial";' textLength='17.08px' lengthAdjust='spacingAndGlyphs'>44%</text>
+<text x='495.27' y='277.18' text-anchor='middle' style='font-size: 8.54px; font-weight: bold;fill: #FFFFFF; font-family: "Arial";' textLength='17.08px' lengthAdjust='spacingAndGlyphs'>80%</text>
+<text x='698.74' y='277.18' text-anchor='middle' style='font-size: 8.54px; font-weight: bold;fill: #FFFFFF; font-family: "Arial";' textLength='17.08px' lengthAdjust='spacingAndGlyphs'>20%</text>
+<text x='402.26' y='81.43' text-anchor='middle' style='font-size: 8.54px; font-weight: bold;fill: #FFFFFF; font-family: "Arial";' textLength='17.08px' lengthAdjust='spacingAndGlyphs'>30%</text>
+<text x='634.79' y='81.43' text-anchor='middle' style='font-size: 8.54px; font-weight: bold;fill: #FFFFFF; font-family: "Arial";' textLength='17.08px' lengthAdjust='spacingAndGlyphs'>70%</text>
+<text x='506.90' y='228.24' text-anchor='middle' style='font-size: 8.54px; font-weight: bold;fill: #FFFFFF; font-family: "Arial";' textLength='17.08px' lengthAdjust='spacingAndGlyphs'>86%</text>
+<text x='547.59' y='179.30' text-anchor='middle' style='font-size: 8.54px; font-weight: bold;fill: #FFFFFF; font-family: "Arial";' textLength='21.83px' lengthAdjust='spacingAndGlyphs'>100%</text>
+<text x='521.56' y='375.25' style='font-size: 9.10px;fill: #666666; font-family: "Arial";' textLength='10.12px' lengthAdjust='spacingAndGlyphs'>16</text>
+<text x='684.34' y='326.31' style='font-size: 9.10px;fill: #666666; font-family: "Arial";' textLength='10.12px' lengthAdjust='spacingAndGlyphs'>30</text>
+<text x='742.47' y='277.37' style='font-size: 9.10px;fill: #666666; font-family: "Arial";' textLength='10.12px' lengthAdjust='spacingAndGlyphs'>35</text>
+<text x='742.47' y='228.44' style='font-size: 9.10px;fill: #666666; font-family: "Arial";' textLength='10.12px' lengthAdjust='spacingAndGlyphs'>35</text>
+<text x='765.72' y='179.50' style='font-size: 9.10px;fill: #666666; font-family: "Arial";' textLength='10.12px' lengthAdjust='spacingAndGlyphs'>37</text>
+<text x='777.35' y='130.56' style='font-size: 9.10px;fill: #666666; font-family: "Arial";' textLength='10.12px' lengthAdjust='spacingAndGlyphs'>38</text>
+<text x='800.60' y='81.63' style='font-size: 9.10px;fill: #666666; font-family: "Arial";' textLength='10.12px' lengthAdjust='spacingAndGlyphs'>40</text>
 </g>
 <g clip-path='url(#cpMC4wMHw4NjQuMDB8MC4wMHw1MDQuMDA=)'>
-<text x='326.58' y='377.79' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='158.41px' lengthAdjust='spacingAndGlyphs'>teknikutbildning, yrkeshögskolan</text>
-<text x='326.58' y='328.29' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='118.67px' lengthAdjust='spacingAndGlyphs'>tandsköterskeutbildning </text>
-<text x='326.58' y='278.79' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='297.25px' lengthAdjust='spacingAndGlyphs'>vård- och omsorgsutb.; övrig gymn. utb. i hälso- och sjukvård</text>
-<text x='326.58' y='229.29' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='264.85px' lengthAdjust='spacingAndGlyphs'>data- och it-utbildning, eftergymnasial (kortare än 3 år)</text>
-<text x='326.58' y='179.79' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='313.75px' lengthAdjust='spacingAndGlyphs'>övrig utb. inom lant- och skogsbruk, djursjukvård, eftergymnasial</text>
-<text x='326.58' y='130.30' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='267.91px' lengthAdjust='spacingAndGlyphs'>Yh-utbildning i företagsekonomi, handel, administration</text>
-<text x='326.58' y='80.80' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='321.10px' lengthAdjust='spacingAndGlyphs'>journalistik och medievetenskaplig utbildning, eftergymnasial nivå </text>
-<text transform='translate(337.98,414.95) rotate(-45)' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='6.12px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text transform='translate(461.47,414.95) rotate(-45)' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='12.24px' lengthAdjust='spacingAndGlyphs'>10</text>
-<text transform='translate(584.97,414.95) rotate(-45)' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='12.24px' lengthAdjust='spacingAndGlyphs'>20</text>
-<text transform='translate(708.46,414.95) rotate(-45)' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='12.24px' lengthAdjust='spacingAndGlyphs'>30</text>
-<text transform='translate(831.96,414.95) rotate(-45)' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='12.24px' lengthAdjust='spacingAndGlyphs'>40</text>
-<text x='594.22' y='437.08' text-anchor='middle' style='font-size: 12.00px; font-weight: bold; font-family: "Arial";' textLength='79.34px' lengthAdjust='spacingAndGlyphs'>Antal antagna</text>
-<text x='496.84' y='471.96' style='font-size: 12.00px; font-weight: bold; font-family: "Arial";' textLength='23.33px' lengthAdjust='spacingAndGlyphs'>Kön</text>
-<rect x='527.48' y='459.86' width='15.60' height='15.60' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #6B6B6B;' />
-<rect x='581.57' y='459.86' width='15.60' height='15.60' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #C87000;' />
-<rect x='647.27' y='459.86' width='15.60' height='15.60' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #1F4764;' />
-<text x='550.40' y='471.60' style='font-size: 11.00px; font-family: "Arial";' textLength='23.86px' lengthAdjust='spacingAndGlyphs'>totalt</text>
-<text x='604.49' y='471.60' style='font-size: 11.00px; font-family: "Arial";' textLength='35.47px' lengthAdjust='spacingAndGlyphs'>kvinnor</text>
-<text x='670.19' y='471.60' style='font-size: 11.00px; font-family: "Arial";' textLength='21.41px' lengthAdjust='spacingAndGlyphs'>män</text>
-<text x='332.41' y='37.95' style='font-size: 13.00px;fill: #555555; font-family: "Arial";' textLength='254.12px' lengthAdjust='spacingAndGlyphs'>Uppsala län (2024). Totalt, kvinnor och män.</text>
-<text x='332.41' y='18.37' style='font-size: 18.00px; font-weight: bold;fill: #B81867; font-family: "Arial";' textLength='268.98px' lengthAdjust='spacingAndGlyphs'>Antagna efter utbildningsgrupp</text>
-<text x='856.03' y='496.42' text-anchor='end' style='font-size: 10.00px;fill: #666666; font-family: "Arial";' textLength='204.67px' lengthAdjust='spacingAndGlyphs'>Källa: SCB. Databearbetning: Region Uppsala</text>
+<text x='326.67' y='375.93' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='321.19px' lengthAdjust='spacingAndGlyphs'>journalistik och medievetenskaplig utbildning, eftergymnasial nivå </text>
+<text x='326.67' y='326.99' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='268.00px' lengthAdjust='spacingAndGlyphs'>Yh-utbildning i företagsekonomi, handel, administration</text>
+<text x='326.67' y='278.06' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='264.91px' lengthAdjust='spacingAndGlyphs'>data- och it-utbildning, eftergymnasial (kortare än 3 år)</text>
+<text x='326.67' y='229.12' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='313.81px' lengthAdjust='spacingAndGlyphs'>övrig utb. inom lant- och skogsbruk, djursjukvård, eftergymnasial</text>
+<text x='326.67' y='180.18' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='297.31px' lengthAdjust='spacingAndGlyphs'>vård- och omsorgsutb.; övrig gymn. utb. i hälso- och sjukvård</text>
+<text x='326.67' y='131.25' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='118.72px' lengthAdjust='spacingAndGlyphs'>tandsköterskeutbildning </text>
+<text x='326.67' y='82.31' text-anchor='end' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='158.47px' lengthAdjust='spacingAndGlyphs'>teknikutbildning, yrkeshögskolan</text>
+<text x='332.50' y='415.06' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='6.12px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='448.76' y='415.06' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='12.25px' lengthAdjust='spacingAndGlyphs'>10</text>
+<text x='565.03' y='415.06' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='12.25px' lengthAdjust='spacingAndGlyphs'>20</text>
+<text x='681.30' y='415.06' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='12.25px' lengthAdjust='spacingAndGlyphs'>30</text>
+<text x='797.57' y='415.06' text-anchor='middle' style='font-size: 11.00px;fill: #4D4D4D; font-family: "Arial";' textLength='12.25px' lengthAdjust='spacingAndGlyphs'>40</text>
+<text x='588.28' y='428.49' text-anchor='middle' style='font-size: 11.00px; font-weight: bold; font-family: "Arial";' textLength='72.75px' lengthAdjust='spacingAndGlyphs'>Antal antagna</text>
+<rect x='459.20' y='451.08' width='15.60' height='15.60' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #C87000;' />
+<rect x='526.74' y='451.08' width='15.60' height='15.60' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #1F4764;' />
+<rect x='578.38' y='451.08' width='15.60' height='15.60' style='stroke-width: 1.26; stroke: none; stroke-linecap: butt; stroke-linejoin: miter; fill: #888780;' />
+<text x='482.12' y='462.82' style='font-size: 11.00px; font-family: "Arial";' textLength='37.31px' lengthAdjust='spacingAndGlyphs'>Kvinnor</text>
+<text x='549.66' y='462.82' style='font-size: 11.00px; font-family: "Arial";' textLength='21.41px' lengthAdjust='spacingAndGlyphs'>Män</text>
+<text x='601.30' y='462.82' style='font-size: 11.00px; font-family: "Arial";' textLength='116.91px' lengthAdjust='spacingAndGlyphs'>Könsuppdelning saknas</text>
+<text x='332.50' y='39.80' style='font-size: 13.00px;fill: #555555; font-family: "Arial";' textLength='113.50px' lengthAdjust='spacingAndGlyphs'>Uppsala län (2024).</text>
+<text x='332.50' y='19.80' style='font-size: 20.00px; font-weight: bold;fill: #B81867; font-family: "Arial";' textLength='497.91px' lengthAdjust='spacingAndGlyphs'>Antagna per utbildningsgrupp inom yrkeshögskolan</text>
+<text x='844.07' y='486.91' text-anchor='end' style='font-size: 9.00px;fill: #666666; font-family: "Arial";' textLength='297.34px' lengthAdjust='spacingAndGlyphs'>Grå stapel = könsuppdelning saknas. Siffra till höger = totalt antal antagna.</text>
+<text x='844.07' y='496.63' text-anchor='end' style='font-size: 9.00px;fill: #666666; font-family: "Arial";' textLength='184.00px' lengthAdjust='spacingAndGlyphs'>Källa: SCB. Databearbetning: Region Uppsala</text>
+</g>
 </g>
 </svg>
